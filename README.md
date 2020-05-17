@@ -2,7 +2,7 @@
 Kernel Modules and Character Device to list all processes
 
 C - program is written in C.
-pipe.c - contains actual code
+kernel_module.c - contains actual kernel code
 makefile- kindly run makefile to run the project
 
 
